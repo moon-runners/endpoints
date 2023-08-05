@@ -1,7 +1,7 @@
 [
   {
     "api": "https://terra-classic-public-api.publicnode.com",
-    "lcd": "https://terra-classic-lcd.publicnode.com",
+    "lcd": "https://lcd.terrarebels.net",
     "fcd": "https://terra-classic-fcd.publicnode.com",
     "rpc": "https://terra-classic-rpc.publicnode.com"
   },
