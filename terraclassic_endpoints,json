@@ -1,0 +1,14 @@
+[
+  {
+    "api": "https://terra-classic-public-api.publicnode.com",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
+    "fcd": "https://terra-classic-fcd.publicnode.com",
+    "rpc": "https://terra-classic-rpc.publicnode.com"
+  },
+  {
+    "api": "https://api.terraclassic.community",
+    "lcd": "https://lcd.terrarebels.net",
+    "fcd": "https://fcd.terraclassic.community",
+    "rpc": "https://rpc.terrarebels.net"
+  }
+]
